@@ -1,3 +1,10 @@
+GIT
+  remote: git://github.com/ph/paquet.git
+  revision: c248f3752bd4ed8a3ad3879c43b65f97434594b2
+  specs:
+    paquet (0.1.0)
+      pry
+
 PATH
   remote: .
   specs:
@@ -9,12 +16,6 @@ PATH
       logstash-core-plugin-api
       logstash-output-elasticsearch
       manticore
-
-PATH
-  remote: ~/es/paquet
-  specs:
-    paquet (0.1.0)
-      pry
 
 GEM
   remote: https://rubygems.org/

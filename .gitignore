@@ -1,3 +1,4 @@
 vendor
-buid
+build
 *.gem
+*.lock
